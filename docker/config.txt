@@ -1,0 +1,4 @@
+PROJECT_NAME=image_captioning
+JUPYTER_PORT=10010
+BACKEND=dl-gpu # pytorch/dl-gpu/dl-cpu
+TENSORBOARD_PORT=10011
